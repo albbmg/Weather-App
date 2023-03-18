@@ -82,6 +82,10 @@ body {
     font-weight: bold;  
 }
 
+.weather {
+    display: none; 
+}
+
 .error {
     text-align: center;
     margin-top: 20px; 
