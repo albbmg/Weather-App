@@ -1,10 +1,10 @@
 /*
 *
 Author: Alba Muñoz
-Project: Music Player Application
+Project: Weather Application
 Version: Version: 1.0.0
-Date: 19/03/2023
-Description: In this first stage of the project, we are going to build a cotainer inside of which we will display all the music player controls as well as its functionality. 
+Date: 17/03/2023
+Description: In this first stage of the project, we will display some weather information, such as temperature, humidity, or wind speed, through the data provided by Fess API key from OpenWeatherMap.
 */
 
 :root {
