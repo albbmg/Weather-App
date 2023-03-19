@@ -1,3 +1,12 @@
+/*
+*
+Author: Alba Muñoz
+Project: Music Player Application
+Version: Version: 1.0.0
+Date: 19/03/2023
+Description: In this first stage of the project, we are going to build a cotainer inside of which we will display all the music player controls as well as its functionality. 
+*/
+
 :root {
     --main-color: #131313;
     --secondary-color: #FFF;
